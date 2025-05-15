@@ -1,2 +1,2 @@
 # Вопросы и ответы по Java
-## Heap, Stack и GC
+## [1. Heap, Stack и GC](1_heap_stack_gc.md)
